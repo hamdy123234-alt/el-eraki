@@ -1,0 +1,17 @@
+---
+// The brand mark redrawn as SVG from the Facebook logo: an open ring with an
+// arrow head, and a laptop with a pixel pattern on its screen.
+const { size = 44, class: cls = '' } = Astro.props;
+---
+<svg class={`logo-mark ${cls}`} width={size} height={size} viewBox="0 0 100 100" aria-hidden="true">
+  <path class="lm-ring" d="M78 22 A40 40 0 1 0 90 50" fill="none" stroke="currentColor" stroke-width="7" stroke-linecap="round" />
+  <path class="lm-arrow" d="M70 14 L96 8 L86 32 Z" fill="currentColor" />
+  <g class="lm-laptop" fill="currentColor">
+    <path d="M30 26 L62 18 L66 52 L36 60 Z" fill="none" stroke="currentColor" stroke-width="4.5" stroke-linejoin="round" />
+    <rect x="40" y="34" width="6" height="6" transform="rotate(-14 43 37)" />
+    <rect x="47" y="31" width="6" height="6" transform="rotate(-14 50 34)" />
+    <rect x="44" y="40" width="6" height="6" transform="rotate(-14 47 43)" />
+    <rect x="53" y="37" width="6" height="6" transform="rotate(-14 56 40)" />
+    <path d="M34 63 L68 55 L76 72 L40 82 Z" />
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "e5450", "brand": "Dell", "series": "Latitude", "model": "E5450",
+    "img": "/img/e5450.webp", "accent": "#ffc21a", "tag": "الأقوى أداءً",
+    "price": "",
+    "specs": [
+      ["المعالج", "Intel Core i7", "الجيل الخامس"],
+      ["الرام", "8GB DDR4", ""],
+      ["التخزين", "256GB SSD", ""],
+      ["الجرافيك الداخلي", "Intel HD 5500", ""],
+      ["الجرافيك المنفصل", "NVIDIA GeForce 840M", "2GB"]
+    ]
+  },
+  {
+    "id": "e5570", "brand": "Dell", "series": "Latitude", "model": "E5570",
+    "img": "/img/e5570.webp", "accent": "#3d8bff", "tag": "فئة الأعمال",
+    "price": "",
+    "specs": [
+      ["المعالج", "Intel Core i5 HQ", "الجيل السادس"],
+      ["الرام", "8GB DDR4", ""],
+      ["الجرافيك الداخلي", "Intel HD 530", ""],
+      ["الجرافيك المنفصل", "AMD R7", "2GB"],
+      ["الموديل", "E5570", "فئة الأعمال"]
+    ]
+  },
+  {
+    "id": "hp640g2", "brand": "HP", "series": "ProBook", "model": "640 G2",
+    "img": "/img/hp640g2.webp", "accent": "#00d1c1", "tag": "يدعم شريحة 4G",
+    "price": "",
+    "specs": [
+      ["المعالج", "Intel Core i7", ""],
+      ["الرام", "8GB", ""],
+      ["التخزين", "256GB SSD M.2", ""],
+      ["كارت الشاشة", "Intel HD 520", ""],
+      ["الاتصال", "4G", "شريحة موبايل"]
+    ]
+  },
+  {
+    "id": "l3300", "brand": "Dell", "series": "Latitude", "model": "3300",
+    "img": "/img/l3300.webp", "accent": "#b36bff", "tag": "شاشة تاتش",
+    "price": "",
+    "specs": [
+      ["المعالج", "Intel Core i3", "الجيل السابع"],
+      ["الرام", "8GB", ""],
+      ["التخزين", "128GB SSD", ""],
+      ["كارت الشاشة", "Intel HD 620", ""],
+      ["الشاشة", "Touch Screen", "تاتش"]
+    ]
+  },
+  {
+    "id": "e7270", "brand": "Dell", "series": "Latitude", "model": "E7270",
+    "img": "/img/e7270.webp", "accent": "#ff6a3d", "tag": "خفيف وعملي",
+    "price": "",
+    "specs": [
+      ["المعالج", "Intel Core i3", "الجيل السادس"],
+      ["الرام", "8GB DDR4", ""],
+      ["التخزين", "256GB SSD", ""],
+      ["كارت الشاشة", "Intel HD 520", ""]
+    ]
+  }
+]

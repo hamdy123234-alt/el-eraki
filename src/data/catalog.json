@@ -1,0 +1,1238 @@
+{
+ "categories": [
+  {
+   "id": "audio",
+   "name": "سماعات",
+   "icon": "headphones"
+  },
+  {
+   "id": "gaming",
+   "name": "جيمنج",
+   "icon": "gamepad"
+  },
+  {
+   "id": "input",
+   "name": "كيبورد وماوس",
+   "icon": "mouse"
+  },
+  {
+   "id": "car",
+   "name": "صوتيات العربية",
+   "icon": "car"
+  },
+  {
+   "id": "speakers",
+   "name": "سبيكرات وراديو",
+   "icon": "speaker"
+  },
+  {
+   "id": "network",
+   "name": "شبكات ووصلات",
+   "icon": "wifi"
+  },
+  {
+   "id": "storage",
+   "name": "تخزين",
+   "icon": "storage"
+  },
+  {
+   "id": "power",
+   "name": "شحن وباور بانك",
+   "icon": "bolt"
+  },
+  {
+   "id": "satellite",
+   "name": "دش و TV Box",
+   "icon": "dish"
+  },
+  {
+   "id": "mounts",
+   "name": "حوامل شاشات",
+   "icon": "monitor"
+  },
+  {
+   "id": "more",
+   "name": "إكسسوارات وأدوات",
+   "icon": "spark"
+  }
+ ],
+ "products": [
+  {
+   "id": "listen-hf88",
+   "cat": "audio",
+   "brand": "LISTEN",
+   "name": "سماعة سلك Extra Bass بفيشة Lightning",
+   "model": "TG-HF88",
+   "tags": [
+    "بمايك",
+    "للأيفون"
+   ],
+   "src": "products/3.jpg",
+   "q": "LISTEN TG-HF88 lightning earphones extra bass",
+   "official": false
+  },
+  {
+   "id": "typec-earphone",
+   "cat": "audio",
+   "brand": "Stereo",
+   "name": "سماعة سلك Type-C ستيريو",
+   "model": "Type-C",
+   "tags": [
+    "بمايك",
+    "تحكم في الصوت"
+   ],
+   "src": "products/7.jpg",
+   "q": "type-c stereo earphone white in-ear with mic",
+   "official": false
+  },
+  {
+   "id": "m11-tws",
+   "cat": "audio",
+   "brand": "M11",
+   "name": "إيربودز بلوتوث بشاشة بطارية",
+   "model": "M11",
+   "tags": [
+    "بلوتوث 5.3",
+    "شاشة ديجيتال"
+   ],
+   "src": "products/5.jpg",
+   "q": "M11 TWS earbuds digital display Be Loud Be Proud",
+   "official": false
+  },
+  {
+   "id": "redmi-airdots",
+   "cat": "audio",
+   "brand": "Redmi",
+   "name": "إيربودز Redmi AirDots Pro",
+   "model": "AirDots Pro",
+   "tags": [
+    "بلوتوث 5.0",
+    "علبة شحن"
+   ],
+   "src": "products/crops/79.jpg",
+   "q": "Redmi AirDots pro earbuds box",
+   "official": false
+  },
+  {
+   "id": "p9-headphone",
+   "cat": "audio",
+   "brand": "P9",
+   "name": "هيدفون بلوتوث P9",
+   "model": "P9",
+   "tags": [
+    "وايرلس",
+    "عزل صوت"
+   ],
+   "src": "products/26.jpg",
+   "q": "P9 wireless bluetooth headphones blue",
+   "official": true
+  },
+  {
+   "id": "p47-headphone",
+   "cat": "audio",
+   "brand": "P47",
+   "name": "هيدفون وايرلس P47",
+   "model": "P47",
+   "tags": [
+    "بلوتوث",
+    "بيتطبق"
+   ],
+   "src": "products/crops/81.jpg",
+   "q": "P47 wireless headphones black",
+   "official": true
+  },
+  {
+   "id": "joyroom-w800",
+   "cat": "audio",
+   "brand": "Joyroom",
+   "name": "سماعة رقبة بلوتوث Joyroom",
+   "model": "W800",
+   "tags": [
+    "+100 ساعة تشغيل",
+    "كارت ميموري"
+   ],
+   "src": "products/27.jpg",
+   "q": "Joyroom W800 neckband bluetooth headset",
+   "official": false
+  },
+  {
+   "id": "sodo-headphone",
+   "cat": "audio",
+   "brand": "SODO",
+   "name": "هيدفون SODO",
+   "model": "SODO",
+   "tags": [
+    "بلوتوث",
+    "لونين"
+   ],
+   "src": "products/29.jpg",
+   "q": "SODO SD-1003 bluetooth headphone brown",
+   "official": true
+  },
+  {
+   "id": "extra-sa450",
+   "cat": "audio",
+   "brand": "Extra",
+   "name": "هيدفون Extra Bass",
+   "model": "SA-450",
+   "tags": [
+    "Extra Bass",
+    "بمايك"
+   ],
+   "src": "products/crops/63.jpg",
+   "q": "extra electronics SA-450 headphone",
+   "official": false
+  },
+  {
+   "id": "vykon-me777",
+   "cat": "audio",
+   "brand": "Vykon",
+   "name": "سماعة USB متعددة الاستخدام",
+   "model": "ME777",
+   "tags": [
+    "USB",
+    "بمايك"
+   ],
+   "src": "products/crops/83.jpg",
+   "q": "Vykon ME777 USB headphone",
+   "official": false
+  },
+  {
+   "id": "gigamax-q3",
+   "cat": "gaming",
+   "brand": "Gigamax Plus",
+   "name": "سماعة جيمنج 7.1 بإضاءة RGB",
+   "model": "Q3",
+   "tags": [
+    "7.1 Surround",
+    "RGB"
+   ],
+   "src": "products/crops/82.jpg",
+   "q": "Gigamax plus Q3 gaming headset 7.1 RGB",
+   "official": true
+  },
+  {
+   "id": "ak15",
+   "cat": "gaming",
+   "brand": "AK",
+   "name": "سماعة جيمنج للموبايل والكمبيوتر",
+   "model": "AK15",
+   "tags": [
+    "بمايك",
+    "ببجي"
+   ],
+   "src": "products/crops/70.jpg",
+   "q": "AK15 gaming headset camouflage mic",
+   "official": false
+  },
+  {
+   "id": "ak17",
+   "cat": "gaming",
+   "brand": "AK",
+   "name": "سماعة جيمنج للموبايل والكمبيوتر",
+   "model": "AK17",
+   "tags": [
+    "بمايك",
+    "مموهة"
+   ],
+   "src": "products/crops/86.jpg",
+   "q": "AK17 gaming headset camouflage",
+   "official": false
+  },
+  {
+   "id": "tptech-tp1",
+   "cat": "gaming",
+   "brand": "TP-Tech",
+   "name": "سماعة جيمنج Pro للكمبيوتر",
+   "model": "TP.1",
+   "tags": [
+    "مايك مرن",
+    "40mm"
+   ],
+   "src": "products/crops/112.jpg",
+   "q": "TP-TECH TP.1 pro gaming headset",
+   "official": false
+  },
+  {
+   "id": "game-headphones",
+   "cat": "gaming",
+   "brand": "T",
+   "name": "سماعة جيمنج Game Headphones",
+   "model": "Overhead",
+   "tags": [
+    "ستيريو"
+   ],
+   "src": "products/crops/65.jpg",
+   "q": "game headphones stereo communication headphone black white",
+   "official": false
+  },
+  {
+   "id": "army-rm08",
+   "cat": "gaming",
+   "brand": "Army",
+   "name": "دراع وايرلس Xshock2",
+   "model": "RM08",
+   "tags": [
+    "PC / PS3 / Android",
+    "2.4G"
+   ],
+   "src": "products/crops/66.jpg",
+   "q": "Army RM08 wireless gamepad xshock2",
+   "official": false
+  },
+  {
+   "id": "zero-zr3001",
+   "cat": "gaming",
+   "brand": "Zero",
+   "name": "دراع كمبيوتر دبل USB",
+   "model": "ZR-3001",
+   "tags": [
+    "دبل",
+    "USB"
+   ],
+   "src": "products/crops/67.jpg",
+   "q": "Zero ZR-3001 double gamepad usb",
+   "official": true
+  },
+  {
+   "id": "zero-zr4004",
+   "cat": "gaming",
+   "brand": "Zero",
+   "name": "دراع كمبيوتر دبل USB أنالوج",
+   "model": "ZR-4004",
+   "tags": [
+    "دبل",
+    "اهتزاز"
+   ],
+   "src": "products/crops/77.jpg",
+   "q": "Zero ZR-4004 double gamepad",
+   "official": false
+  },
+  {
+   "id": "cougar-jb906",
+   "cat": "gaming",
+   "brand": "Cougar",
+   "name": "دراع Jumbo باهتزاز",
+   "model": "JB-906",
+   "tags": [
+    "دبل USB",
+    "اهتزاز"
+   ],
+   "src": "products/crops/75.jpg",
+   "q": "Cougar JB-906 joypad double usb vibration",
+   "official": true
+  },
+  {
+   "id": "doubleshock-p3",
+   "cat": "gaming",
+   "brand": "Doubleshock",
+   "name": "دراع بلايستيشن 3 وايرلس",
+   "model": "P III",
+   "tags": [
+    "PS3",
+    "وايرلس"
+   ],
+   "src": "products/crops/84.jpg",
+   "q": "doubleshock P III controller ps3 wireless",
+   "official": true
+  },
+  {
+   "id": "gigamax-gm6060",
+   "cat": "gaming",
+   "brand": "Gigamax Plus",
+   "name": "دراع كمبيوتر دبل",
+   "model": "G.M 6060",
+   "tags": [
+    "دبل",
+    "USB"
+   ],
+   "src": "products/crops/88.jpg",
+   "q": "Gigamax plus GM 6060 gamepad",
+   "official": true
+  },
+  {
+   "id": "smile-doubleshock",
+   "cat": "gaming",
+   "brand": "Smile",
+   "name": "دراع Double Shock دبل",
+   "model": "Double Shock",
+   "tags": [
+    "دبل",
+    "USB"
+   ],
+   "src": "products/crops/89.jpg",
+   "q": "Smile double shock controller usb gamepad",
+   "official": false
+  },
+  {
+   "id": "point-joypad",
+   "cat": "gaming",
+   "brand": "Point",
+   "name": "دراع كمبيوتر دبل Game Joypad",
+   "model": "Game Joypad",
+   "tags": [
+    "دبل",
+    "USB 2.0"
+   ],
+   "src": "products/crops/120.jpg",
+   "q": "Point game joypad double usb orange",
+   "official": true
+  },
+  {
+   "id": "yes-gx38",
+   "cat": "input",
+   "brand": "Yes-Original",
+   "name": "ماوس جيمنج RGB",
+   "model": "GX38",
+   "tags": [
+    "7200 DPI",
+    "7 زراير"
+   ],
+   "src": "products/22.jpg",
+   "q": "Yes-Original GX38 gaming mouse RGB",
+   "official": true
+  },
+  {
+   "id": "point-pt12",
+   "cat": "input",
+   "brand": "Point",
+   "name": "ماوس جيمنج 6D",
+   "model": "PT-12",
+   "tags": [
+    "3600 DPI",
+    "إضاءة"
+   ],
+   "src": "products/21.jpg",
+   "q": "Point PT-12 6D gaming mouse",
+   "official": false
+  },
+  {
+   "id": "gaming-mouse-3200",
+   "cat": "input",
+   "brand": "Gaming Series",
+   "name": "ماوس جيمنج ميكانيكال بإضاءة",
+   "model": "3200 DPI",
+   "tags": [
+    "3200 DPI",
+    "7 زراير"
+   ],
+   "src": "products/20.jpg",
+   "q": "mechanical gaming mouse 3200 dpi 7 buttons spring star pattern",
+   "official": false
+  },
+  {
+   "id": "animal-mouse",
+   "cat": "input",
+   "brand": "M-11",
+   "name": "ماوس وايرلس بأشكال كرتون",
+   "model": "M-11",
+   "tags": [
+    "وايرلس",
+    "باندا / خنزير"
+   ],
+   "src": "products/17.jpg",
+   "q": "cute cartoon wireless mouse panda pig",
+   "official": false
+  },
+  {
+   "id": "utopia-mini",
+   "cat": "input",
+   "brand": "Utopia",
+   "name": "كيبورد ميني وايرلس بتاتش باد",
+   "model": "Mini",
+   "tags": [
+    "إضاءة",
+    "عربي"
+   ],
+   "src": "products/15.jpg",
+   "q": "i8 mini wireless keyboard touchpad backlit utopia",
+   "official": true
+  },
+  {
+   "id": "technozone-kb",
+   "cat": "input",
+   "brand": "Techno Zone",
+   "name": "كيبورد جيمنج ميكانيكال بمسند",
+   "model": "Mechanical",
+   "tags": [
+    "ماكرو",
+    "Anti-ghosting"
+   ],
+   "src": "products/32.jpg",
+   "q": "Techno zone mechanical gaming keyboard palm rest",
+   "official": false
+  },
+  {
+   "id": "twolf-kb",
+   "cat": "input",
+   "brand": "T-Wolf",
+   "name": "كيبورد جيمنج بزراير مدورة RGB",
+   "model": "T20",
+   "tags": [
+    "RGB",
+    "بينك / أسود"
+   ],
+   "src": "products/37.png",
+   "q": "T-WOLF round keycap gaming keyboard rgb",
+   "official": false
+  },
+  {
+   "id": "forev-kb",
+   "cat": "input",
+   "brand": "Forev",
+   "name": "كيبورد جيمنج بإضاءة RGB",
+   "model": "RGB",
+   "tags": [
+    "RGB",
+    "سلك"
+   ],
+   "src": "products/38.jpg",
+   "q": "FOREV gaming keyboard rgb",
+   "official": false
+  },
+  {
+   "id": "yes-combo",
+   "cat": "input",
+   "brand": "Yes-Original",
+   "name": "طقم كيبورد وماوس وايرلس",
+   "model": "Combo",
+   "tags": [
+    "وايرلس",
+    "عربي"
+   ],
+   "src": "products/39.png",
+   "q": "Yes-Original wireless keyboard mouse combo",
+   "official": false
+  },
+  {
+   "id": "citisound-ct550",
+   "cat": "car",
+   "brand": "CitiSound",
+   "name": "سماعة سقف 5 بوصة Dual-Cone",
+   "model": "CT-550",
+   "tags": [
+    "250W",
+    "ضمان سنة"
+   ],
+   "src": "products/crops/40.jpg",
+   "q": "CitiSound CT-550 speaker",
+   "official": true
+  },
+  {
+   "id": "adrian-m8",
+   "cat": "car",
+   "brand": "Adrian",
+   "name": "كاسيت عربية ديجيتال",
+   "model": "AD-M8",
+   "tags": [
+    "USB / SD",
+    "ريموت"
+   ],
+   "src": "products/crops/41.jpg",
+   "q": "Adrian AD-M8 car mp3 player",
+   "official": true
+  },
+  {
+   "id": "adrian-x2",
+   "cat": "car",
+   "brand": "Adrian",
+   "name": "كاسيت عربية بلوتوث",
+   "model": "AD-X2",
+   "tags": [
+    "بلوتوث",
+    "فلاشة وكارت"
+   ],
+   "src": "products/crops/57.jpg",
+   "q": "Adrian AD-X2 car digital player",
+   "official": false
+  },
+  {
+   "id": "rahma-rm600",
+   "cat": "car",
+   "brand": "Rahma Tech",
+   "name": "كاسيت عربية دبل USB",
+   "model": "RM-600",
+   "tags": [
+    "2 USB",
+    "شاحن 2.1A"
+   ],
+   "src": "products/crops/51.jpg",
+   "q": "Rahma tech RM-600 car mp3 player",
+   "official": false
+  },
+  {
+   "id": "zpower-x10700",
+   "cat": "car",
+   "brand": "Z Power Dragon",
+   "name": "كاسيت أندرويد 9 بوصة تاتش",
+   "model": "ZD-X10700T",
+   "tags": [
+    "9 بوصة",
+    "تاتش"
+   ],
+   "src": "products/crops/58.jpg",
+   "q": "Z Power Dragon ZD-X10700 9 inch car",
+   "official": true
+  },
+  {
+   "id": "sqony-ts1038",
+   "cat": "car",
+   "brand": "SQONY",
+   "name": "طقم سماعات عربية 4 بوصة",
+   "model": "TS-1038",
+   "tags": [
+    "120W",
+    "2 Way"
+   ],
+   "src": "products/crops/49.jpg",
+   "q": "SQONY TS-1038 car speaker",
+   "official": false
+  },
+  {
+   "id": "sony-gtf1639",
+   "cat": "car",
+   "brand": "Sony",
+   "name": "سماعات عربية 6.5 بوصة 3 Way",
+   "model": "XS-GTF1639",
+   "tags": [
+    "270W",
+    "Extra Bass"
+   ],
+   "src": "products/crops/52.jpg",
+   "q": "Sony XS-GTF1639 speaker",
+   "official": true
+  },
+  {
+   "id": "pioneer-a6977s",
+   "cat": "car",
+   "brand": "Pioneer",
+   "name": "سماعة عربية بيضاوي 6×9",
+   "model": "TS-A6977S",
+   "tags": [
+    "650W",
+    "4 Way"
+   ],
+   "src": "products/crops/54.jpg",
+   "q": "Pioneer TS-A6977S",
+   "official": true
+  },
+  {
+   "id": "kenwood-ps695e",
+   "cat": "car",
+   "brand": "Kenwood",
+   "name": "سماعات عربية بيضاوي 6×9",
+   "model": "KFC-PS695E",
+   "tags": [
+    "700W",
+    "5 Way"
+   ],
+   "src": "products/crops/55.jpg",
+   "q": "Kenwood KFC-PS695E speaker",
+   "official": true
+  },
+  {
+   "id": "hsh-bazooka",
+   "cat": "car",
+   "brand": "HSH",
+   "name": "بازوكا صب ووفر 5 بوصة",
+   "model": "HS-560",
+   "tags": [
+    "صب ووفر",
+    "نقش فرعوني"
+   ],
+   "src": "products/crops/98.jpg",
+   "q": "HSH HS-560 bazooka subwoofer",
+   "official": false
+  },
+  {
+   "id": "zero-zr3010",
+   "cat": "speakers",
+   "brand": "Zero",
+   "name": "مكبر صوت صب ووفر 2.1 بلوتوث",
+   "model": "ZR-3010",
+   "tags": [
+    "2.1",
+    "ريموت"
+   ],
+   "src": "products/crops/56.jpg",
+   "q": "Zero ZR-3010 2.1 speaker",
+   "official": true
+  },
+  {
+   "id": "ws887",
+   "cat": "speakers",
+   "brand": "WS",
+   "name": "سبيكر ميني بلوتوث",
+   "model": "WS-887",
+   "tags": [
+    "بلوتوث",
+    "ألوان"
+   ],
+   "src": "products/crops/61.jpg",
+   "q": "WS-887 mini speaker bluetooth",
+   "official": true
+  },
+  {
+   "id": "sonic-cs03c",
+   "cat": "speakers",
+   "brand": "Sonic",
+   "name": "سماعة سقف 6 بوصة",
+   "model": "CS-03C",
+   "tags": [
+    "6.5 بوصة",
+    "110V"
+   ],
+   "src": "products/crops/50.jpg",
+   "q": "Alfajr media sonic CS-03C ceiling speaker",
+   "official": false
+  },
+  {
+   "id": "golon-rx333",
+   "cat": "speakers",
+   "brand": "Golon",
+   "name": "راديو بفلاشة وكارت وكشاف",
+   "model": "RX-333",
+   "tags": [
+    "USB / SD",
+    "شحن"
+   ],
+   "src": "products/crops/87.jpg",
+   "q": "Golon RX-333 radio",
+   "official": false
+  },
+  {
+   "id": "tplink-wn725n",
+   "cat": "network",
+   "brand": "TP-Link",
+   "name": "وايرلس نانو USB",
+   "model": "TL-WN725N",
+   "tags": [
+    "150Mbps",
+    "ضمان سنتين"
+   ],
+   "src": "products/9.jpg",
+   "q": "TP-Link TL-WN725N",
+   "official": false
+  },
+  {
+   "id": "gigamax-wifi",
+   "cat": "network",
+   "brand": "Gigamax Plus",
+   "name": "وايرلس USB بأنتنا",
+   "model": "300Mbps",
+   "tags": [
+    "300Mbps",
+    "2.4GHz"
+   ],
+   "src": "products/crops/62.jpg",
+   "q": "Gigamax plus wireless usb adapter antenna 300mbps",
+   "official": false
+  },
+  {
+   "id": "gigamax-bt6",
+   "cat": "network",
+   "brand": "Gigamax Plus",
+   "name": "دونجل بلوتوث USB",
+   "model": "V6.0",
+   "tags": [
+    "بلوتوث 6.0",
+    "USB"
+   ],
+   "src": "products/23.jpg",
+   "q": "Gigamax plus bluetooth 6.0 usb dongle",
+   "official": false
+  },
+  {
+   "id": "aplus-ab45e",
+   "cat": "network",
+   "brand": "APlus",
+   "name": "وصلة USB عبر كابل شبكة",
+   "model": "AB-45E",
+   "tags": [
+    "لحد 45 متر",
+    "RJ45"
+   ],
+   "src": "products/6.jpg",
+   "q": "USB RJ45 extension adapter 150ft",
+   "official": true
+  },
+  {
+   "id": "vga-extender",
+   "cat": "network",
+   "brand": "MixMax",
+   "name": "VGA Extender على كابل شبكة",
+   "model": "60M",
+   "tags": [
+    "60 متر",
+    "1080p"
+   ],
+   "src": "products/8.jpg",
+   "q": "VGA extender 60m single ethernet cable",
+   "official": true
+  },
+  {
+   "id": "hdmi-extender",
+   "cat": "network",
+   "brand": "Gigamax",
+   "name": "HDMI Extender على كابل شبكة",
+   "model": "Cat6",
+   "tags": [
+    "4K",
+    "من غير كهربا"
+   ],
+   "src": "products/crops/122.jpg",
+   "q": "HDMI extender RJ45 cat6 30m blue pair",
+   "official": true
+  },
+  {
+   "id": "mixmax-hdmi-dongle",
+   "cat": "network",
+   "brand": "MixMax",
+   "name": "HDMI Dongle عرض لاسلكي",
+   "model": "WiFi Display",
+   "tags": [
+    "Miracast",
+    "AirPlay"
+   ],
+   "src": "products/13.jpg",
+   "q": "anycast hdmi wifi display dongle",
+   "official": false
+  },
+  {
+   "id": "mixmax-m9plus",
+   "cat": "network",
+   "brand": "MixMax",
+   "name": "عرض لاسلكي M9 Plus",
+   "model": "M9 Plus",
+   "tags": [
+    "2 Core",
+    "Chromecast"
+   ],
+   "src": "products/25.jpg",
+   "q": "Anycast M9 Plus wireless display dongle",
+   "official": false
+  },
+  {
+   "id": "ps2-av",
+   "cat": "network",
+   "brand": "PS2",
+   "name": "كابل AV بلايستيشن 2",
+   "model": "1.8M",
+   "tags": [
+    "1.8 متر"
+   ],
+   "src": "products/24.jpg",
+   "q": "PS2 AV cable composite",
+   "official": true
+  },
+  {
+   "id": "hikvision-c100",
+   "cat": "storage",
+   "brand": "Hikvision",
+   "name": "هارد SSD ساتا 2.5",
+   "model": "C100 240GB",
+   "tags": [
+    "240GB",
+    "SATA III"
+   ],
+   "src": "products/16.jpg",
+   "q": "Hikvision C100 240GB SSD",
+   "official": true
+  },
+  {
+   "id": "dahua-c800a",
+   "cat": "storage",
+   "brand": "Dahua",
+   "name": "هارد SSD ساتا 2.5",
+   "model": "C800A 128GB",
+   "tags": [
+    "128GB",
+    "550MB/s"
+   ],
+   "src": "products/crops/90.jpg",
+   "q": "Dahua C800A 128GB SSD",
+   "official": false
+  },
+  {
+   "id": "kingston-canvas",
+   "cat": "storage",
+   "brand": "Kingston",
+   "name": "كارت ميموري Canvas Select Plus",
+   "model": "32 / 64 / 128GB",
+   "tags": [
+    "100MB/s",
+    "A1"
+   ],
+   "src": "products/crops/59.jpg",
+   "q": "Kingston Canvas Select Plus microSD 128GB",
+   "official": true
+  },
+  {
+   "id": "kingston-se9",
+   "cat": "storage",
+   "brand": "Kingston",
+   "name": "فلاشة DataTraveler SE9 معدن",
+   "model": "16 / 32GB",
+   "tags": [
+    "معدن",
+    "USB"
+   ],
+   "src": "products/crops/73.jpg",
+   "q": "Kingston DataTraveler SE9 32GB",
+   "official": true
+  },
+  {
+   "id": "kingston-exodia",
+   "cat": "storage",
+   "brand": "Kingston",
+   "name": "فلاشة DataTraveler Exodia",
+   "model": "64 / 128GB",
+   "tags": [
+    "USB 3.2"
+   ],
+   "src": "products/crops/74.jpg",
+   "q": "Kingston DataTraveler Exodia 128GB",
+   "official": false
+  },
+  {
+   "id": "hdd-case",
+   "cat": "storage",
+   "brand": "Point / Samsung",
+   "name": "علبة هارد خارجي 2.5",
+   "model": "F2 Portable",
+   "tags": [
+    "USB",
+    "Point و Samsung"
+   ],
+   "src": "products/14.jpg",
+   "q": "2.5 inch external hard drive enclosure black usb",
+   "official": false
+  },
+  {
+   "id": "earldom-pb54",
+   "cat": "power",
+   "brand": "Earldom",
+   "name": "باور بانك Earldom",
+   "model": "PB54",
+   "tags": [
+    "شحن سريع"
+   ],
+   "src": "products/1.jpg",
+   "q": "Earldom PB54 power bank",
+   "official": true
+  },
+  {
+   "id": "rockrose-andes",
+   "cat": "power",
+   "brand": "RockRose",
+   "name": "باور بانك 10000mAh",
+   "model": "Andes 10S",
+   "tags": [
+    "10000mAh"
+   ],
+   "src": "products/2.jpg",
+   "q": "RockRose Andes 10S power bank",
+   "official": false
+  },
+  {
+   "id": "samsung-45w",
+   "cat": "power",
+   "brand": "Samsung",
+   "name": "شاحن سامسونج 45W سوبر فاست",
+   "model": "45W PD",
+   "tags": [
+    "USB-C",
+    "Super Fast"
+   ],
+   "src": "products/4.jpg",
+   "q": "Samsung 45W PD adapter USB-C EP-T4510",
+   "official": true
+  },
+  {
+   "id": "car-laptop-charger",
+   "cat": "power",
+   "brand": "Future",
+   "name": "شاحن لابتوب للعربية بسنون متعددة",
+   "model": "96W",
+   "tags": [
+    "96W",
+    "USB"
+   ],
+   "src": "products/crops/46.jpg",
+   "q": "96W universal laptop car charger adapter tips",
+   "official": false
+  },
+  {
+   "id": "power-adapters",
+   "cat": "power",
+   "brand": "Crash / MixMax",
+   "name": "محول كهربا 12V للكاميرات",
+   "model": "A2000 / NTS-02",
+   "tags": [
+    "12V 2A",
+    "كاميرات مراقبة"
+   ],
+   "src": "products/crops/80.jpg",
+   "q": "CCTV power supply 12V 2A adapter",
+   "official": false
+  },
+  {
+   "id": "x96-mini",
+   "cat": "satellite",
+   "brand": "Zero",
+   "name": "TV Box أندرويد X96 mini",
+   "model": "X96 mini",
+   "tags": [
+    "4K",
+    "4 Core"
+   ],
+   "src": "products/31.jpg",
+   "q": "X96 mini android tv box remote",
+   "official": false
+  },
+  {
+   "id": "tiger-twin-lnb",
+   "cat": "satellite",
+   "brand": "Tiger AG",
+   "name": "LNB دبل لطبق الدش",
+   "model": "Twin LNB",
+   "tags": [
+    "4K Ultra HD"
+   ],
+   "src": "products/crops/64.jpg",
+   "q": "Tiger twin LNB 4K",
+   "official": false
+  },
+  {
+   "id": "zsat-z400",
+   "cat": "satellite",
+   "brand": "Z-SAT",
+   "name": "LNB كواد لطبق الدش",
+   "model": "Z-400",
+   "tags": [
+    "4 مخارج",
+    "0.1dB"
+   ],
+   "src": "products/crops/97.jpg",
+   "q": "ZSAT Z-400 quad LNB",
+   "official": false
+  },
+  {
+   "id": "qmax-mst999",
+   "cat": "satellite",
+   "brand": "Qmax",
+   "name": "ريسيفر Full HD",
+   "model": "MST-999 H2 XRD",
+   "tags": [
+    "1080p",
+    "USB"
+   ],
+   "src": "products/crops/95.jpg",
+   "q": "Qmax MST-999 H2 receiver",
+   "official": true
+  },
+  {
+   "id": "tiger-mcr502",
+   "cat": "mounts",
+   "brand": "Tiger AG",
+   "name": "حامل شاشة متحرك 32 - 65 بوصة",
+   "model": "MCR-502",
+   "tags": [
+    "لحد 35 كجم",
+    "متحرك"
+   ],
+   "src": "products/crops/42.jpg",
+   "q": "full motion tv wall mount 32-65 double arm",
+   "official": true
+  },
+  {
+   "id": "tiger-mcr402",
+   "cat": "mounts",
+   "brand": "Tiger AG",
+   "name": "حامل شاشة متحرك 32 - 55 بوصة",
+   "model": "MCR-402",
+   "tags": [
+    "±15°",
+    "متحرك"
+   ],
+   "src": "products/crops/44.jpg",
+   "q": "full motion tv wall mount 32-55 articulating",
+   "official": true
+  },
+  {
+   "id": "tiger-cp302",
+   "cat": "mounts",
+   "brand": "Tiger AG",
+   "name": "حامل شاشة متحرك 14 - 42 بوصة",
+   "model": "MCR-CP302",
+   "tags": [
+    "لحد 20 كجم"
+   ],
+   "src": "products/crops/47.jpg",
+   "q": "full motion tv wall mount 14-42 single arm",
+   "official": true
+  },
+  {
+   "id": "gigamax-mount",
+   "cat": "mounts",
+   "brand": "Gigamax Plus",
+   "name": "حامل شاشة ثابت 26 - 63 بوصة",
+   "model": "Fixed",
+   "tags": [
+    "لحد 50 كجم"
+   ],
+   "src": "products/crops/43.jpg",
+   "q": "fixed tv wall mount 26-63 black bracket",
+   "official": false
+  },
+  {
+   "id": "protech-mount",
+   "cat": "mounts",
+   "brand": "Protech",
+   "name": "حامل شاشة متحرك 14 - 42 بوصة",
+   "model": "Full Motion",
+   "tags": [
+    "180°",
+    "35 كجم"
+   ],
+   "src": "products/crops/45.jpg",
+   "q": "Protech full motion mount 14-42",
+   "official": false
+  },
+  {
+   "id": "fox-mount",
+   "cat": "mounts",
+   "brand": "FOX",
+   "name": "حامل شاشة متحرك 22 - 47 بوصة",
+   "model": "LCD-806-6",
+   "tags": [
+    "ميزان مياه"
+   ],
+   "src": "products/crops/48.jpg",
+   "q": "articulating wall mount 22-47 LCD bubble level",
+   "official": false
+  },
+  {
+   "id": "mtm-mount",
+   "cat": "mounts",
+   "brand": "MTM",
+   "name": "حامل شاشة بميل 14 - 42 بوصة",
+   "model": "Tilt",
+   "tags": [
+    "±15°",
+    "25 كجم"
+   ],
+   "src": "products/crops/94.jpg",
+   "q": "tilt tv wall mount 14-42",
+   "official": false
+  },
+  {
+   "id": "k8-ultra",
+   "cat": "more",
+   "brand": "K8",
+   "name": "ساعة سمارت K8 Ultra Max",
+   "model": "49mm",
+   "tags": [
+    "2.05 بوصة"
+   ],
+   "src": "products/19.jpg",
+   "q": "K8 Ultra Max smartwatch 49mm",
+   "official": false
+  },
+  {
+   "id": "classic3-talk",
+   "cat": "more",
+   "brand": "x.cell",
+   "name": "ساعة سمارت بمكالمات",
+   "model": "Classic 3 Talk",
+   "tags": [
+    "مكالمات",
+    "عربي"
+   ],
+   "src": "products/crops/76.jpg",
+   "q": "xcell classic 3 talk smartwatch",
+   "official": true
+  },
+  {
+   "id": "ring-light-mj26",
+   "cat": "more",
+   "brand": "RGB LED",
+   "name": "رينج لايت RGB للتصوير",
+   "model": "MJ26",
+   "tags": [
+    "ألوان RGB",
+    "حامل موبايل"
+   ],
+   "src": "products/10.jpg",
+   "q": "MJ26 RGB ring light 26cm",
+   "official": true
+  },
+  {
+   "id": "boya-bym1",
+   "cat": "more",
+   "brand": "BOYA",
+   "name": "مايك كرافتة للتصوير",
+   "model": "BY-M1",
+   "tags": [
+    "موبايل وكاميرا"
+   ],
+   "src": "products/35.jpg",
+   "q": "BOYA BY-M1 lavalier microphone",
+   "official": true
+  },
+  {
+   "id": "glue-gun",
+   "cat": "more",
+   "brand": "Glue Gun",
+   "name": "مسدس شمع 100 وات",
+   "model": "GT-10",
+   "tags": [
+    "100W",
+    "220V"
+   ],
+   "src": "products/crops/60.jpg",
+   "q": "hot melt glue gun GT-10 100W blue",
+   "official": false
+  },
+  {
+   "id": "glue-sticks",
+   "cat": "more",
+   "brand": "Glue",
+   "name": "أصابع شمع للمسدس",
+   "model": "Sticks",
+   "tags": [
+    "شفاف"
+   ],
+   "src": "products/crops/96.jpg",
+   "q": "hot glue sticks clear bundle",
+   "official": false
+  },
+  {
+   "id": "blower-450",
+   "cat": "more",
+   "brand": "Blower",
+   "name": "بلاور شفط وطرد 450 وات",
+   "model": "450W",
+   "tags": [
+    "شفط وطرد"
+   ],
+   "src": "products/crops/53.jpg",
+   "q": "electric blower 450W yellow",
+   "official": false
+  },
+  {
+   "id": "tiger-emergency",
+   "cat": "more",
+   "brand": "Tiger AG",
+   "name": "كشاف طوارئ 360°",
+   "model": "Emergency",
+   "tags": [
+    "شحن",
+    "2 لمبة"
+   ],
+   "src": "products/33.jpg",
+   "q": "Tiger AG emergency light lantern",
+   "official": false
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.astro/
+# raw client photos and work files stay on this PC only
+source-images/
+cutouts/
