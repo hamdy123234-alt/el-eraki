@@ -9,7 +9,9 @@ import services from '../data/services.json';
 import catalog from '../data/catalog.json';
 
 const catName = Object.fromEntries(catalog.categories.map((c) => [c.id, c.name]));
-const catCount = (id) => catalog.products.filter((p) => p.cat === id).length;
+const shopItems = catalog.products.filter((p) => p.img);
+const catCount = (id) => shopItems.filter((p) => p.cat === id).length;
+const shopCats = catalog.categories.filter((c) => catCount(c.id) > 0);
 
 const B = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const asset = (path) => B + path.replace(/^\//, '');
@@ -185,7 +187,7 @@ const icons = {
       <div class="sec-head">
         <span class="sec-num">02</span>
         <h2 class="sec-title reveal">المتجر <span class="outline">كله في إيدك</span></h2>
-        <p class="sec-lead reveal">{catalog.products.length}+ منتج من سماعات وجيمنج وصوتيات العربية لحد الشبكات والتخزين. ضيف اللي محتاجه للسلة وابعت الطلب على واتساب مرة واحدة.</p>
+        <p class="sec-lead reveal">{shopItems.length}+ منتج من سماعات وجيمنج وصوتيات العربية لحد الشبكات والتخزين. ضيف اللي محتاجه للسلة وابعت الطلب على واتساب مرة واحدة.</p>
       </div>
 
       <div class="shop-bar">
@@ -194,18 +196,18 @@ const icons = {
           <input type="search" placeholder="دوّر على منتج، ماركة أو موديل…" data-search aria-label="بحث في المنتجات" />
         </label>
         <div class="chips-row" data-cats>
-          <button class="cat is-on" data-cat="all">الكل <i>{catalog.products.length}</i></button>
-          {catalog.categories.map((c) => (
+          <button class="cat is-on" data-cat="all">الكل <i>{shopItems.length}</i></button>
+          {shopCats.map((c) => (
             <button class="cat" data-cat={c.id}>{c.name} <i>{catCount(c.id)}</i></button>
           ))}
         </div>
       </div>
 
       <div class="grid" data-grid>
-        {catalog.products.map((p, i) => (
+        {shopItems.map((p, i) => (
           <article class="card" data-id={p.id} data-cat={p.cat} data-text={`${p.name} ${p.brand} ${p.model} ${catName[p.cat]} ${p.tags.join(' ')}`.toLowerCase()} tabindex="0">
             <div class="card-media">
-              <img src={asset(`img/p/${p.id}.webp`)} alt={`${p.brand} ${p.model} — ${p.name}`} loading={i < 8 ? 'eager' : 'lazy'} width="600" height="600" />
+              <img src={asset(`img/n/${p.id}.webp`)} alt={`${p.brand} ${p.model} — ${p.name}`} loading={i < 8 ? 'eager' : 'lazy'} width="600" height="600" />
             </div>
             <div class="card-body">
               <span class="card-brand">{p.brand}</span>

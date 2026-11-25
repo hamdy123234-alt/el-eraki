@@ -5,7 +5,7 @@ const WA = window.__WA;
 const byId = Object.fromEntries(items.map((p) => [p.id, p]));
 const $ = (s, r = document) => r.querySelector(s);
 const $$ = (s, r = document) => [...r.querySelectorAll(s)];
-const img = (id) => `${window.__BASE || '/'}img/p/${id}.webp`;
+const img = (id) => `${window.__BASE || '/'}img/n/${id}.webp`;
 const waLink = (text) => `https://wa.me/${WA}?text=${encodeURIComponent(text)}`;
 
 /* ---------- filter + search ---------- */

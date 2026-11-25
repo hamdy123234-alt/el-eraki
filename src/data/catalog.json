@@ -62,14 +62,13 @@
    "cat": "audio",
    "brand": "LISTEN",
    "name": "سماعة سلك Extra Bass بفيشة Lightning",
-   "model": "TG-HF88",
+   "model": "TG-HP68",
    "tags": [
     "بمايك",
     "للأيفون"
    ],
    "src": "products/3.jpg",
-   "q": "LISTEN TG-HF88 lightning earphones extra bass",
-   "official": false
+   "img": true
   },
   {
    "id": "typec-earphone",
@@ -82,8 +81,7 @@
     "تحكم في الصوت"
    ],
    "src": "products/7.jpg",
-   "q": "type-c stereo earphone white in-ear with mic",
-   "official": false
+   "img": true
   },
   {
    "id": "m11-tws",
@@ -96,8 +94,7 @@
     "شاشة ديجيتال"
    ],
    "src": "products/5.jpg",
-   "q": "M11 TWS earbuds digital display Be Loud Be Proud",
-   "official": false
+   "img": true
   },
   {
    "id": "redmi-airdots",
@@ -110,8 +107,7 @@
     "علبة شحن"
    ],
    "src": "products/crops/79.jpg",
-   "q": "Redmi AirDots pro earbuds box",
-   "official": false
+   "img": false
   },
   {
    "id": "p9-headphone",
@@ -124,8 +120,7 @@
     "عزل صوت"
    ],
    "src": "products/26.jpg",
-   "q": "P9 wireless bluetooth headphones blue",
-   "official": true
+   "img": false
   },
   {
    "id": "p47-headphone",
@@ -138,8 +133,7 @@
     "بيتطبق"
    ],
    "src": "products/crops/81.jpg",
-   "q": "P47 wireless headphones black",
-   "official": true
+   "img": false
   },
   {
    "id": "joyroom-w800",
@@ -152,8 +146,7 @@
     "كارت ميموري"
    ],
    "src": "products/27.jpg",
-   "q": "Joyroom W800 neckband bluetooth headset",
-   "official": false
+   "img": true
   },
   {
    "id": "sodo-headphone",
@@ -166,8 +159,7 @@
     "لونين"
    ],
    "src": "products/29.jpg",
-   "q": "SODO SD-1003 bluetooth headphone brown",
-   "official": true
+   "img": true
   },
   {
    "id": "extra-sa450",
@@ -180,8 +172,7 @@
     "بمايك"
    ],
    "src": "products/crops/63.jpg",
-   "q": "extra electronics SA-450 headphone",
-   "official": false
+   "img": false
   },
   {
    "id": "vykon-me777",
@@ -194,8 +185,7 @@
     "بمايك"
    ],
    "src": "products/crops/83.jpg",
-   "q": "Vykon ME777 USB headphone",
-   "official": false
+   "img": false
   },
   {
    "id": "gigamax-q3",
@@ -208,8 +198,7 @@
     "RGB"
    ],
    "src": "products/crops/82.jpg",
-   "q": "Gigamax plus Q3 gaming headset 7.1 RGB",
-   "official": true
+   "img": false
   },
   {
    "id": "ak15",
@@ -222,8 +211,7 @@
     "ببجي"
    ],
    "src": "products/crops/70.jpg",
-   "q": "AK15 gaming headset camouflage mic",
-   "official": false
+   "img": false
   },
   {
    "id": "ak17",
@@ -236,8 +224,7 @@
     "مموهة"
    ],
    "src": "products/crops/86.jpg",
-   "q": "AK17 gaming headset camouflage",
-   "official": false
+   "img": false
   },
   {
    "id": "tptech-tp1",
@@ -250,8 +237,7 @@
     "40mm"
    ],
    "src": "products/crops/112.jpg",
-   "q": "TP-TECH TP.1 pro gaming headset",
-   "official": false
+   "img": false
   },
   {
    "id": "game-headphones",
@@ -263,8 +249,7 @@
     "ستيريو"
    ],
    "src": "products/crops/65.jpg",
-   "q": "game headphones stereo communication headphone black white",
-   "official": false
+   "img": false
   },
   {
    "id": "army-rm08",
@@ -277,8 +262,7 @@
     "2.4G"
    ],
    "src": "products/crops/66.jpg",
-   "q": "Army RM08 wireless gamepad xshock2",
-   "official": false
+   "img": false
   },
   {
    "id": "zero-zr3001",
@@ -291,8 +275,7 @@
     "USB"
    ],
    "src": "products/crops/67.jpg",
-   "q": "Zero ZR-3001 double gamepad usb",
-   "official": true
+   "img": false
   },
   {
    "id": "zero-zr4004",
@@ -305,8 +288,7 @@
     "اهتزاز"
    ],
    "src": "products/crops/77.jpg",
-   "q": "Zero ZR-4004 double gamepad",
-   "official": false
+   "img": false
   },
   {
    "id": "cougar-jb906",
@@ -319,8 +301,7 @@
     "اهتزاز"
    ],
    "src": "products/crops/75.jpg",
-   "q": "Cougar JB-906 joypad double usb vibration",
-   "official": true
+   "img": true
   },
   {
    "id": "doubleshock-p3",
@@ -333,8 +314,7 @@
     "وايرلس"
    ],
    "src": "products/crops/84.jpg",
-   "q": "doubleshock P III controller ps3 wireless",
-   "official": true
+   "img": false
   },
   {
    "id": "gigamax-gm6060",
@@ -347,8 +327,7 @@
     "USB"
    ],
    "src": "products/crops/88.jpg",
-   "q": "Gigamax plus GM 6060 gamepad",
-   "official": true
+   "img": false
   },
   {
    "id": "smile-doubleshock",
@@ -361,8 +340,7 @@
     "USB"
    ],
    "src": "products/crops/89.jpg",
-   "q": "Smile double shock controller usb gamepad",
-   "official": false
+   "img": false
   },
   {
    "id": "point-joypad",
@@ -375,8 +353,7 @@
     "USB 2.0"
    ],
    "src": "products/crops/120.jpg",
-   "q": "Point game joypad double usb orange",
-   "official": true
+   "img": false
   },
   {
    "id": "yes-gx38",
@@ -389,8 +366,7 @@
     "7 زراير"
    ],
    "src": "products/22.jpg",
-   "q": "Yes-Original GX38 gaming mouse RGB",
-   "official": true
+   "img": true
   },
   {
    "id": "point-pt12",
@@ -403,8 +379,7 @@
     "إضاءة"
    ],
    "src": "products/21.jpg",
-   "q": "Point PT-12 6D gaming mouse",
-   "official": false
+   "img": true
   },
   {
    "id": "gaming-mouse-3200",
@@ -417,8 +392,7 @@
     "7 زراير"
    ],
    "src": "products/20.jpg",
-   "q": "mechanical gaming mouse 3200 dpi 7 buttons spring star pattern",
-   "official": false
+   "img": true
   },
   {
    "id": "animal-mouse",
@@ -431,8 +405,7 @@
     "باندا / خنزير"
    ],
    "src": "products/17.jpg",
-   "q": "cute cartoon wireless mouse panda pig",
-   "official": false
+   "img": true
   },
   {
    "id": "utopia-mini",
@@ -445,8 +418,7 @@
     "عربي"
    ],
    "src": "products/15.jpg",
-   "q": "i8 mini wireless keyboard touchpad backlit utopia",
-   "official": true
+   "img": true
   },
   {
    "id": "technozone-kb",
@@ -459,8 +431,7 @@
     "Anti-ghosting"
    ],
    "src": "products/32.jpg",
-   "q": "Techno zone mechanical gaming keyboard palm rest",
-   "official": false
+   "img": true
   },
   {
    "id": "twolf-kb",
@@ -473,8 +444,7 @@
     "بينك / أسود"
    ],
    "src": "products/37.png",
-   "q": "T-WOLF round keycap gaming keyboard rgb",
-   "official": false
+   "img": true
   },
   {
    "id": "forev-kb",
@@ -487,8 +457,7 @@
     "سلك"
    ],
    "src": "products/38.jpg",
-   "q": "FOREV gaming keyboard rgb",
-   "official": false
+   "img": false
   },
   {
    "id": "yes-combo",
@@ -501,8 +470,7 @@
     "عربي"
    ],
    "src": "products/39.png",
-   "q": "Yes-Original wireless keyboard mouse combo",
-   "official": false
+   "img": true
   },
   {
    "id": "citisound-ct550",
@@ -515,8 +483,7 @@
     "ضمان سنة"
    ],
    "src": "products/crops/40.jpg",
-   "q": "CitiSound CT-550 speaker",
-   "official": true
+   "img": false
   },
   {
    "id": "adrian-m8",
@@ -529,8 +496,7 @@
     "ريموت"
    ],
    "src": "products/crops/41.jpg",
-   "q": "Adrian AD-M8 car mp3 player",
-   "official": true
+   "img": false
   },
   {
    "id": "adrian-x2",
@@ -543,8 +509,7 @@
     "فلاشة وكارت"
    ],
    "src": "products/crops/57.jpg",
-   "q": "Adrian AD-X2 car digital player",
-   "official": false
+   "img": false
   },
   {
    "id": "rahma-rm600",
@@ -557,8 +522,7 @@
     "شاحن 2.1A"
    ],
    "src": "products/crops/51.jpg",
-   "q": "Rahma tech RM-600 car mp3 player",
-   "official": false
+   "img": false
   },
   {
    "id": "zpower-x10700",
@@ -571,8 +535,7 @@
     "تاتش"
    ],
    "src": "products/crops/58.jpg",
-   "q": "Z Power Dragon ZD-X10700 9 inch car",
-   "official": true
+   "img": false
   },
   {
    "id": "sqony-ts1038",
@@ -585,8 +548,7 @@
     "2 Way"
    ],
    "src": "products/crops/49.jpg",
-   "q": "SQONY TS-1038 car speaker",
-   "official": false
+   "img": false
   },
   {
    "id": "sony-gtf1639",
@@ -599,8 +561,7 @@
     "Extra Bass"
    ],
    "src": "products/crops/52.jpg",
-   "q": "Sony XS-GTF1639 speaker",
-   "official": true
+   "img": false
   },
   {
    "id": "pioneer-a6977s",
@@ -613,8 +574,7 @@
     "4 Way"
    ],
    "src": "products/crops/54.jpg",
-   "q": "Pioneer TS-A6977S",
-   "official": true
+   "img": false
   },
   {
    "id": "kenwood-ps695e",
@@ -627,8 +587,7 @@
     "5 Way"
    ],
    "src": "products/crops/55.jpg",
-   "q": "Kenwood KFC-PS695E speaker",
-   "official": true
+   "img": false
   },
   {
    "id": "hsh-bazooka",
@@ -641,8 +600,7 @@
     "نقش فرعوني"
    ],
    "src": "products/crops/98.jpg",
-   "q": "HSH HS-560 bazooka subwoofer",
-   "official": false
+   "img": false
   },
   {
    "id": "zero-zr3010",
@@ -655,8 +613,7 @@
     "ريموت"
    ],
    "src": "products/crops/56.jpg",
-   "q": "Zero ZR-3010 2.1 speaker",
-   "official": true
+   "img": false
   },
   {
    "id": "ws887",
@@ -669,8 +626,7 @@
     "ألوان"
    ],
    "src": "products/crops/61.jpg",
-   "q": "WS-887 mini speaker bluetooth",
-   "official": true
+   "img": false
   },
   {
    "id": "sonic-cs03c",
@@ -683,8 +639,7 @@
     "110V"
    ],
    "src": "products/crops/50.jpg",
-   "q": "Alfajr media sonic CS-03C ceiling speaker",
-   "official": false
+   "img": false
   },
   {
    "id": "golon-rx333",
@@ -697,8 +652,7 @@
     "شحن"
    ],
    "src": "products/crops/87.jpg",
-   "q": "Golon RX-333 radio",
-   "official": false
+   "img": false
   },
   {
    "id": "tplink-wn725n",
@@ -711,8 +665,7 @@
     "ضمان سنتين"
    ],
    "src": "products/9.jpg",
-   "q": "TP-Link TL-WN725N",
-   "official": false
+   "img": true
   },
   {
    "id": "gigamax-wifi",
@@ -725,8 +678,7 @@
     "2.4GHz"
    ],
    "src": "products/crops/62.jpg",
-   "q": "Gigamax plus wireless usb adapter antenna 300mbps",
-   "official": false
+   "img": true
   },
   {
    "id": "gigamax-bt6",
@@ -739,8 +691,7 @@
     "USB"
    ],
    "src": "products/23.jpg",
-   "q": "Gigamax plus bluetooth 6.0 usb dongle",
-   "official": false
+   "img": true
   },
   {
    "id": "aplus-ab45e",
@@ -753,13 +704,12 @@
     "RJ45"
    ],
    "src": "products/6.jpg",
-   "q": "USB RJ45 extension adapter 150ft",
-   "official": true
+   "img": true
   },
   {
    "id": "vga-extender",
    "cat": "network",
-   "brand": "MixMax",
+   "brand": "SitaMax",
    "name": "VGA Extender على كابل شبكة",
    "model": "60M",
    "tags": [
@@ -767,8 +717,7 @@
     "1080p"
    ],
    "src": "products/8.jpg",
-   "q": "VGA extender 60m single ethernet cable",
-   "official": true
+   "img": true
   },
   {
    "id": "hdmi-extender",
@@ -781,8 +730,7 @@
     "من غير كهربا"
    ],
    "src": "products/crops/122.jpg",
-   "q": "HDMI extender RJ45 cat6 30m blue pair",
-   "official": true
+   "img": false
   },
   {
    "id": "mixmax-hdmi-dongle",
@@ -795,8 +743,7 @@
     "AirPlay"
    ],
    "src": "products/13.jpg",
-   "q": "anycast hdmi wifi display dongle",
-   "official": false
+   "img": true
   },
   {
    "id": "mixmax-m9plus",
@@ -809,8 +756,7 @@
     "Chromecast"
    ],
    "src": "products/25.jpg",
-   "q": "Anycast M9 Plus wireless display dongle",
-   "official": false
+   "img": false
   },
   {
    "id": "ps2-av",
@@ -822,8 +768,7 @@
     "1.8 متر"
    ],
    "src": "products/24.jpg",
-   "q": "PS2 AV cable composite",
-   "official": true
+   "img": true
   },
   {
    "id": "hikvision-c100",
@@ -836,8 +781,7 @@
     "SATA III"
    ],
    "src": "products/16.jpg",
-   "q": "Hikvision C100 240GB SSD",
-   "official": true
+   "img": true
   },
   {
    "id": "dahua-c800a",
@@ -850,8 +794,7 @@
     "550MB/s"
    ],
    "src": "products/crops/90.jpg",
-   "q": "Dahua C800A 128GB SSD",
-   "official": false
+   "img": false
   },
   {
    "id": "kingston-canvas",
@@ -864,8 +807,7 @@
     "A1"
    ],
    "src": "products/crops/59.jpg",
-   "q": "Kingston Canvas Select Plus microSD 128GB",
-   "official": true
+   "img": true
   },
   {
    "id": "kingston-se9",
@@ -878,8 +820,7 @@
     "USB"
    ],
    "src": "products/crops/73.jpg",
-   "q": "Kingston DataTraveler SE9 32GB",
-   "official": true
+   "img": false
   },
   {
    "id": "kingston-exodia",
@@ -891,8 +832,7 @@
     "USB 3.2"
    ],
    "src": "products/crops/74.jpg",
-   "q": "Kingston DataTraveler Exodia 128GB",
-   "official": false
+   "img": false
   },
   {
    "id": "hdd-case",
@@ -905,34 +845,32 @@
     "Point و Samsung"
    ],
    "src": "products/14.jpg",
-   "q": "2.5 inch external hard drive enclosure black usb",
-   "official": false
+   "img": true
   },
   {
    "id": "earldom-pb54",
    "cat": "power",
    "brand": "Earldom",
    "name": "باور بانك Earldom",
-   "model": "PB54",
+   "model": "PB54 / PBWEE",
    "tags": [
     "شحن سريع"
    ],
    "src": "products/1.jpg",
-   "q": "Earldom PB54 power bank",
-   "official": true
+   "img": true
   },
   {
    "id": "rockrose-andes",
    "cat": "power",
    "brand": "RockRose",
    "name": "باور بانك 10000mAh",
-   "model": "Andes 10S",
+   "model": "Andes 10S · PD66BS",
    "tags": [
+    "PD شحن سريع",
     "10000mAh"
    ],
    "src": "products/2.jpg",
-   "q": "RockRose Andes 10S power bank",
-   "official": false
+   "img": true
   },
   {
    "id": "samsung-45w",
@@ -945,8 +883,7 @@
     "Super Fast"
    ],
    "src": "products/4.jpg",
-   "q": "Samsung 45W PD adapter USB-C EP-T4510",
-   "official": true
+   "img": true
   },
   {
    "id": "car-laptop-charger",
@@ -959,8 +896,7 @@
     "USB"
    ],
    "src": "products/crops/46.jpg",
-   "q": "96W universal laptop car charger adapter tips",
-   "official": false
+   "img": false
   },
   {
    "id": "power-adapters",
@@ -973,8 +909,7 @@
     "كاميرات مراقبة"
    ],
    "src": "products/crops/80.jpg",
-   "q": "CCTV power supply 12V 2A adapter",
-   "official": false
+   "img": false
   },
   {
    "id": "x96-mini",
@@ -987,8 +922,7 @@
     "4 Core"
    ],
    "src": "products/31.jpg",
-   "q": "X96 mini android tv box remote",
-   "official": false
+   "img": true
   },
   {
    "id": "tiger-twin-lnb",
@@ -1000,8 +934,7 @@
     "4K Ultra HD"
    ],
    "src": "products/crops/64.jpg",
-   "q": "Tiger twin LNB 4K",
-   "official": false
+   "img": false
   },
   {
    "id": "zsat-z400",
@@ -1014,8 +947,7 @@
     "0.1dB"
    ],
    "src": "products/crops/97.jpg",
-   "q": "ZSAT Z-400 quad LNB",
-   "official": false
+   "img": false
   },
   {
    "id": "qmax-mst999",
@@ -1028,8 +960,7 @@
     "USB"
    ],
    "src": "products/crops/95.jpg",
-   "q": "Qmax MST-999 H2 receiver",
-   "official": true
+   "img": false
   },
   {
    "id": "tiger-mcr502",
@@ -1042,8 +973,7 @@
     "متحرك"
    ],
    "src": "products/crops/42.jpg",
-   "q": "full motion tv wall mount 32-65 double arm",
-   "official": true
+   "img": false
   },
   {
    "id": "tiger-mcr402",
@@ -1056,8 +986,7 @@
     "متحرك"
    ],
    "src": "products/crops/44.jpg",
-   "q": "full motion tv wall mount 32-55 articulating",
-   "official": true
+   "img": false
   },
   {
    "id": "tiger-cp302",
@@ -1069,8 +998,7 @@
     "لحد 20 كجم"
    ],
    "src": "products/crops/47.jpg",
-   "q": "full motion tv wall mount 14-42 single arm",
-   "official": true
+   "img": false
   },
   {
    "id": "gigamax-mount",
@@ -1082,8 +1010,7 @@
     "لحد 50 كجم"
    ],
    "src": "products/crops/43.jpg",
-   "q": "fixed tv wall mount 26-63 black bracket",
-   "official": false
+   "img": false
   },
   {
    "id": "protech-mount",
@@ -1096,8 +1023,7 @@
     "35 كجم"
    ],
    "src": "products/crops/45.jpg",
-   "q": "Protech full motion mount 14-42",
-   "official": false
+   "img": false
   },
   {
    "id": "fox-mount",
@@ -1109,8 +1035,7 @@
     "ميزان مياه"
    ],
    "src": "products/crops/48.jpg",
-   "q": "articulating wall mount 22-47 LCD bubble level",
-   "official": false
+   "img": false
   },
   {
    "id": "mtm-mount",
@@ -1123,8 +1048,7 @@
     "25 كجم"
    ],
    "src": "products/crops/94.jpg",
-   "q": "tilt tv wall mount 14-42",
-   "official": false
+   "img": false
   },
   {
    "id": "k8-ultra",
@@ -1136,8 +1060,7 @@
     "2.05 بوصة"
    ],
    "src": "products/19.jpg",
-   "q": "K8 Ultra Max smartwatch 49mm",
-   "official": false
+   "img": true
   },
   {
    "id": "classic3-talk",
@@ -1150,8 +1073,7 @@
     "عربي"
    ],
    "src": "products/crops/76.jpg",
-   "q": "xcell classic 3 talk smartwatch",
-   "official": true
+   "img": false
   },
   {
    "id": "ring-light-mj26",
@@ -1164,8 +1086,7 @@
     "حامل موبايل"
    ],
    "src": "products/10.jpg",
-   "q": "MJ26 RGB ring light 26cm",
-   "official": true
+   "img": true
   },
   {
    "id": "boya-bym1",
@@ -1177,8 +1098,7 @@
     "موبايل وكاميرا"
    ],
    "src": "products/35.jpg",
-   "q": "BOYA BY-M1 lavalier microphone",
-   "official": true
+   "img": true
   },
   {
    "id": "glue-gun",
@@ -1191,8 +1111,7 @@
     "220V"
    ],
    "src": "products/crops/60.jpg",
-   "q": "hot melt glue gun GT-10 100W blue",
-   "official": false
+   "img": false
   },
   {
    "id": "glue-sticks",
@@ -1204,8 +1123,7 @@
     "شفاف"
    ],
    "src": "products/crops/96.jpg",
-   "q": "hot glue sticks clear bundle",
-   "official": false
+   "img": false
   },
   {
    "id": "blower-450",
@@ -1217,8 +1135,7 @@
     "شفط وطرد"
    ],
    "src": "products/crops/53.jpg",
-   "q": "electric blower 450W yellow",
-   "official": false
+   "img": false
   },
   {
    "id": "tiger-emergency",
@@ -1231,8 +1148,79 @@
     "2 لمبة"
    ],
    "src": "products/33.jpg",
-   "q": "Tiger AG emergency light lantern",
-   "official": false
+   "img": false
+  },
+  {
+   "id": "tplink-wa855re",
+   "cat": "network",
+   "brand": "TP-Link",
+   "name": "مقوي إشارة واي فاي N300",
+   "model": "TL-WA855RE",
+   "tags": [
+    "300Mbps",
+    "2 أنتنا"
+   ],
+   "img": true
+  },
+  {
+   "id": "yes-camera",
+   "cat": "more",
+   "brand": "Yes-Original",
+   "name": "كاميرا مراقبة HD خارجي",
+   "model": "HD Security Camera",
+   "tags": [
+    "رؤية ليلي ملونة",
+    "ضد المية"
+   ],
+   "img": true
+  },
+  {
+   "id": "karaoke-mic",
+   "cat": "speakers",
+   "brand": "Karaoke",
+   "name": "مايك كاريوكي بلوتوث بسماعة",
+   "model": "Gold",
+   "tags": [
+    "بلوتوث",
+    "تسجيل وصدى"
+   ],
+   "img": true
+  },
+  {
+   "id": "gaming-combo",
+   "cat": "input",
+   "brand": "Gaming Combo",
+   "name": "طقم كيبورد وماوس جيمنج بإضاءة",
+   "model": "RGB Combo",
+   "tags": [
+    "إضاءة RGB",
+    "سلك"
+   ],
+   "img": true
+  },
+  {
+   "id": "party-speaker",
+   "cat": "speakers",
+   "brand": "Party Speaker",
+   "name": "سبيكر بارتي بإضاءة RGB ومايك",
+   "model": "RGB",
+   "tags": [
+    "إضاءة RGB",
+    "مايك"
+   ],
+   "img": true
+  },
+  {
+   "id": "logitech-presenter",
+   "cat": "more",
+   "brand": "Logitech",
+   "name": "بوينتر عرض وايرلس بليزر",
+   "model": "Wireless Presenter",
+   "tags": [
+    "ليزر أحمر",
+    "وايرلس"
+   ],
+   "img": true
   }
  ]
 }

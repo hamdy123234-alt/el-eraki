@@ -96,3 +96,13 @@
   .qv-info h3 { font-size: 22px; }
   .cart-fab { width: 54px; height: 54px; bottom: 16px; inset-inline-end: 16px; }
 }
+
+/* studio cards: the new product photos are shot on white, so the image sits on a white panel */
+.card-media { margin: 10px 10px 0; padding: 0; border-radius: 18px; overflow: hidden; background: #fff; }
+.card-media::after { display: none; }
+.card-media img { filter: none; mix-blend-mode: normal; }
+.card:hover .card-media img { transform: scale(1.05); }
+.qv-media { background: #fff; margin: 14px; border-radius: 22px; padding: 20px; }
+.qv-media img { filter: none; }
+.cart-list img { background: #fff; padding: 4px; }
+@media (max-width: 760px) { .card-media { margin: 6px 6px 0; border-radius: 14px; } }
