@@ -123,3 +123,13 @@ img { height: auto; }
   .bento { grid-template-columns: repeat(3, 1fr); }
   .tile-big { grid-column: span 3; }
 }
+
+/* phones/tablets: the moving band shimmered on iPhone Safari, so it stands still and
+   shows every category at once, wrapped and centred */
+@media (hover: none), (max-width: 760px) {
+  .marquee-track { animation: none; transform: none; will-change: auto; width: auto; }
+  .marquee-group + .marquee-group { display: none; }
+  .marquee-group { direction: rtl; flex-wrap: wrap; justify-content: center; gap: 4px 18px; padding: 12px 14px; width: 100%; flex-shrink: 1; }
+  .marquee span { font-size: 15px; padding: 2px 0; }
+  .marquee i { display: none; } /* stars dangled at the end of wrapped lines */
+}
