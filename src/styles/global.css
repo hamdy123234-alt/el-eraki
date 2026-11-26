@@ -170,11 +170,14 @@ button { font: inherit; color: inherit; cursor: pointer; border: 0; background: 
 
 /* ---------- marquee ---------- */
 .marquee { overflow: hidden; border-block: 1px solid var(--line); background: var(--gold); color: #0a0f24; transform: rotate(-1.5deg) scale(1.03); margin-block: 30px 0; position: relative; z-index: 2; }
-.marquee-track { display: flex; width: max-content; animation: marquee 38s linear infinite; }
+.marquee { direction: ltr; }
+/* anchored to the left and moved by -50%: Safari places an RTL max-content track differently, which left the band empty */
+.marquee-track { display: flex; width: max-content; animation: marquee 38s linear infinite; will-change: transform; }
+.marquee span { direction: rtl; }
 .marquee-group { display: flex; }
 .marquee span { font-size: clamp(22px, 3vw, 38px); font-weight: 900; padding: 14px 0; white-space: nowrap; }
 .marquee i { font-style: normal; margin-inline: 28px; opacity: .55; }
-@keyframes marquee { to { transform: translateX(50%); } }
+@keyframes marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
 
 /* ---------- sections ---------- */
 section { position: relative; z-index: 1; }
